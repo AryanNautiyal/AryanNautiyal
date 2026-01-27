@@ -14,10 +14,10 @@
     height="195"
   />
 
-  <br> 
+  <br/>
   
   <img 
-    src="https://streak-stats.demolab.com?user=AryanNautiyal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" 
+    src="https://streak-stats.demolab.com?user=AryanNautiyal&theme=dracula&hide_border=false&border_radius=5" 
     width="100%" 
     alt="streak graph" 
   />
