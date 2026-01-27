@@ -4,11 +4,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AryanNautiyal&show_icons=true&theme=dracula" width="48%" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanNautiyal&layout=compact&langs_count=6&theme=dracula" width="48%" height="195" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AryanNautiyal&theme=dracula" width="48%" height="195" />
+  
   
   <br/>
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AryanNautiyal&theme=dracula" width="48%" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanNautiyal&layout=compact&langs_count=6&theme=dracula" width="48%" height="195" />
   <img src="https://github-profile-trophy.vercel.app?username=AryanNautiyal&theme=dracula&column=3&row=1" width="48%" height="195" />
 </div>
 
