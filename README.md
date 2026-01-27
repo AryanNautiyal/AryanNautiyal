@@ -3,24 +3,13 @@
 ###
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AryanNautiyal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
-    width="49%" 
-    height="195"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanNautiyal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" 
-    width="49%" 
-    height="195"
-  />
-
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanNautiyal&show_icons=true&theme=dracula" width="48%" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanNautiyal&layout=compact&langs_count=6&theme=dracula" width="48%" height="195" />
   
-  <img 
-  src="https://github-readme-streak-stats-eight.vercel.app?user=AryanNautiyal&theme=dracula&hide_border=false" 
-  width="50%" 
-  alt="streak graph" 
-/>
+  <br/>
+
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AryanNautiyal&theme=dracula" width="48%" height="195" />
+  <img src="https://github-profile-trophy.vercel.app?username=AryanNautiyal&theme=dracula&column=3&row=1" width="48%" height="195" />
 </div>
 
 ###
