@@ -6,6 +6,14 @@
 
 ###
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aryan+Nautiyal;Full-stack+Developer;Building+digital+solutions;A+passionate+coder+from+India" alt="Typing SVG" />
+  </a>
+</h1>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AryanNautiyal&show_icons=true&theme=dracula" width="49%" height="195" />
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=AryanNautiyal&theme=dracula" width="49%" height="195" />
