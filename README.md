@@ -17,10 +17,10 @@
   <br/>
   
   <img 
-    src="https://streak-stats.demolab.com?user=AryanNautiyal&theme=dracula&hide_border=false&border_radius=5" 
-    width="100%" 
-    alt="streak graph" 
-  />
+  src="https://github-readme-streak-stats-eight.vercel.app?user=AryanNautiyal&theme=dracula&hide_border=false" 
+  width="100%" 
+  alt="streak graph" 
+/>
 </div>
 
 ###
