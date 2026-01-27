@@ -18,7 +18,7 @@
   
   <img 
   src="https://github-readme-streak-stats-eight.vercel.app?user=AryanNautiyal&theme=dracula&hide_border=false" 
-  width="100%" 
+  width="50%" 
   alt="streak graph" 
 />
 </div>
