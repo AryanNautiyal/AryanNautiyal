@@ -8,7 +8,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Aryan+Nautiyal;Full-stack+Developer;Logic-driven+builder;Architecting+solutions+not+just+scripts;Driven+by+First+Principles+thinking;Turning+complexity+into+reality;Passionate+coder+and+constant+learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&pause=1000&color=50FA7B&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Aryan+Nautiyal;Full-stack+Developer;Logic-driven+builder;Architecting+solutions+not+just+scripts;Driven+by+First+Principles+thinking;Turning+complexity+into+reality;Passionate+coder+and+constant+learner" alt="Typing SVG" />
   </a>
 </h1>
 
