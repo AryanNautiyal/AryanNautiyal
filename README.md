@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img height="150" src="https://media.tenor.com/Ems-mLvCeqwAAAAM/cid-kagenou.gif"  />
+  <img width="150" height="150" src="https://images.weserv.nl/?url=https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif&w=300&h=300&fit=cover&mask=circle&n=-1" />
 
 </div>
 
