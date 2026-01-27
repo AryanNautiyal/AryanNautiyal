@@ -2,6 +2,12 @@
 
   <img width="150" height="150" src="https://images.weserv.nl/?url=https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif&w=300&h=300&fit=cover&mask=circle&n=-1" />
 
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=50FA7B&center=true&vCenter=true&width=550&height=50&lines=%3E+whoami:+Aryan+Nautiyal;%3E+status:+Full-stack+Developer;%5Bsystem%5D+logic_driven_builder.sh;%5Bsystem%5D+architecting_solutions;%3E+thinking_mode+--first-principles;%3E+complexity_to_reality.exe;%3E+mode:+passionate_learner" alt="Typing SVG" />
+    </a>
+  </h1>
+
 </div>
 
 ###
