@@ -35,7 +35,12 @@
 
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/AryanNautiyal/AryanNautiyal/output/snake.svg" 
+    src="https://raw.githubusercontent.com/AryanNautiyal/AryanNautiyal/output/snake.svg#gh-light-mode-only" 
+    alt="Snake animation" 
+    width="100%" 
+  />
+  <img 
+    src="https://raw.githubusercontent.com/AryanNautiyal/AryanNautiyal/output/snake-dark.svg#gh-dark-mode-only" 
     alt="Snake animation" 
     width="100%" 
   />
