@@ -13,19 +13,11 @@
     width="49%" 
     height="195"
   />
-</div>
-
-###
-
-<div align="center">
   <img 
     src="https://streak-stats.demolab.com?user=AryanNautiyal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" 
     width="49%" 
     alt="streak graph" 
   />
-
-  <br><br>
-  
   <img 
     src="https://github-profile-trophy.vercel.app?username=AryanNautiyal&theme=dracula&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" 
     width="49%" 
