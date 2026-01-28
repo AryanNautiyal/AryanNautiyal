@@ -14,9 +14,9 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanNautiyal&show_icons=true&theme=dracula" width="49%" height="195" hspace="4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanNautiyal&show_icons=true&theme=dracula" width="49%" height="195" hspace="3" />
   
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AryanNautiyal&theme=dracula" width="49%" height="195" hspace="4" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AryanNautiyal&theme=dracula" width="49%" height="195" hspace="3" />
   
   
   <br/>
